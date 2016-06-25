@@ -4,4 +4,4 @@ Written in C for the final project of MOOC course, "Build a Modern Computer From
 
 Makefile is set to compile using GCC.
 
-Command-line usage: "./asm inputfile.asm outputfile.hack"
+Command-line usage: <b>./asm inputfile.asm outputfile.hack"</b>
